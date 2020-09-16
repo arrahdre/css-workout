@@ -1,0 +1,35 @@
+img {
+  height: 150px;
+}
+
+.description {
+  font-size: 20px;
+}
+
+workout-time {
+  font-weight: bold;
+}
+.equipment li{
+  list-style: square;
+}
+
+.time p{
+  color: grey;
+}
+
+.citation p{
+  color: seagreen;
+}
+
+h1 {
+  font-family: helvetica;
+
+}
+
+h2 {
+  font-family: helvetica;
+}
+
+li {
+  font-family: helvetica;
+}
